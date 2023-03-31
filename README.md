@@ -34,6 +34,14 @@ Output:
 
 ![ScreenShot](https://i.ibb.co/8Xp6nmS/Captura-de-pantalla-2023-03-31-141825.png)
 
+## Format Specifiers
+
+* **%d:** Prints a decimal (base 10) integer.
+* **%i:** Same as *%d*.
+* **%s:** Prints a string.
+* **%c:** Prints single character. 
+* **%%:** Simply print a %.
+
 ## Authors
 
 * **Jeremias Erba** - *Holberton Student* - [Jeremias Erba](https://github.com/JereDev19/) - *Software development and team leadership*
