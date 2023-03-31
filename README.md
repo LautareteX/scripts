@@ -24,7 +24,7 @@ The _printf function works very similar as the original printf function.
 
 * To call the function use this:
 
-➡️_printf("format string", arguments);
+    _printf("format string", arguments);
 
 The first argument is a string that contains format specifiers, which are replaced by the corresponding argument values. The function returns the number of characters printed (excluding the terminating null byte).
 
