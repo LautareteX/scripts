@@ -30,11 +30,6 @@ The first argument is a string that contains format specifiers, which are replac
 
 # There is an example-->>
 
-´´´
-#include <stdio.h>
-
-int main(void)
-{
     char *str = "This is a holberton project";
     int num = 42;
 
@@ -44,20 +39,15 @@ int main(void)
     _printf("Percent sign: %%\n");
 
     return (0);
-}
-´´´
 
 # Output:
 
-´´´
-{
-String: This is a holberton project!
-Decimal: 42
-Character: H
-Percent sign: %
-}
+    String: This is a holberton project!
+    Decimal: 42
+    Character: H
+    Percent sign: %
 
-´´´
+    return (0);
 
 ## Format Specifiers
 
