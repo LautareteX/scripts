@@ -28,9 +28,29 @@ The _printf function works very similar as the original printf function.
 
 The first argument is a string that contains format specifiers, which are replaced by the corresponding argument values. The function returns the number of characters printed (excluding the terminating null byte).
 
-![https://i.ibb.co/LQ6YmBj/Captura-de-pantalla-2023-03-31-141233.png](https://i.ibb.co/LkzQdKH/Captura-de-pantalla-2023-03-31-141613.png)
+# There is an example-->>
 
-Output:
+#include <stdio.h>
+
+int main(void)
+{
+    char *str = "This is a holberton project";
+    int num = 42;
+
+    _printf("String: %s\n", str);
+    _printf("Decimal: %d\n", num);
+    _printf("Character: %c\n", 'H');
+    _printf("Percent sign: %%\n");
+
+    return (0);
+}
+
+# Output:
+
+String: This is a holberton project!
+Decimal: 42
+Character: H
+Percent sign: %
 
 ![ScreenShot](https://i.ibb.co/8Xp6nmS/Captura-de-pantalla-2023-03-31-141825.png)
 
