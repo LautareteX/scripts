@@ -30,6 +30,9 @@ The first argument is a string that contains format specifiers, which are replac
 
 ![https://i.ibb.co/LQ6YmBj/Captura-de-pantalla-2023-03-31-141233.png](https://i.ibb.co/LkzQdKH/Captura-de-pantalla-2023-03-31-141613.png)
 
+Output:
+![ScreenShot](https://i.ibb.co/8Xp6nmS/Captura-de-pantalla-2023-03-31-141825.png)
+
 ## Authors
 
 * **Jeremias Erba** - *Holberton Student* - [Jeremias Erba](https://github.com/JereDev19/) - *Software development and team leadership*
