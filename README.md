@@ -28,6 +28,8 @@ The _printf function works very similar as the original printf function.
 
 The first argument is a string that contains format specifiers, which are replaced by the corresponding argument values. The function returns the number of characters printed (excluding the terminating null byte).
 
+![Screen Shot](https://i.ibb.co/LQ6YmBj/Captura-de-pantalla-2023-03-31-141233.png)
+
 ## Authors
 
 * **Jeremias Erba** - *Holberton Student* - [Jeremias Erba](https://github.com/JereDev19/) - *Software development and team leadership*
