@@ -22,8 +22,7 @@ This is a custom implementation of the printf function in C, developed as a proj
 
 The _printf function works very similar as the original printf function.
 
-*Add the HEADER FILE!
-*Use the syntax but with '_'.
+* To call the function use this:
 
 ➡️_printf("format string", arguments);
 
