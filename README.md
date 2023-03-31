@@ -41,7 +41,7 @@ The first argument is a string that contains format specifiers, which are replac
 
 # Output:
 
-    String: This is a holberton project!
+    String: This is a holberton project
     Decimal: 42
     Character: H
     Percent sign: %
