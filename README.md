@@ -46,8 +46,6 @@ The first argument is a string that contains format specifiers, which are replac
     Character: H
     Percent sign: %
 
-    return (0);
-
 ## Format Specifiers
 
 * **%d:** Prints a decimal (base 10) integer.
