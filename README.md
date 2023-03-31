@@ -26,9 +26,3 @@ This is a custom implementation of the printf function in C, developed as a proj
 
 * **Jeremias Erba** - *Holberton Student* - [Jeremias Erba](https://github.com/JereDev19/) - *Code and lead the team.*
 * **Lautaro Rodriguez** - *Holberton Student* - [Lautaro Rodriguez](https://github.com/LautareteX/) - *Code and write README.md*
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
