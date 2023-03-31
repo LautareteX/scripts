@@ -56,8 +56,6 @@ Character: H
 Percent sign: %
 }
 
-![ScreenShot](https://i.ibb.co/8Xp6nmS/Captura-de-pantalla-2023-03-31-141825.png)
-
 ## Format Specifiers
 
 * **%d:** Prints a decimal (base 10) integer.
