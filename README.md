@@ -26,8 +26,9 @@ The _printf function works very similar as the original printf function.
 
 ➡️_printf("format string", arguments);
 
+The first argument is a string that contains format specifiers, which are replaced by the corresponding argument values. The function returns the number of characters printed (excluding the terminating null byte).
 
 ## Authors
 
-* **Jeremias Erba** - *Holberton Student* - [Jeremias Erba](https://github.com/JereDev19/) - *Code and lead the team.*
-* **Lautaro Rodriguez** - *Holberton Student* - [Lautaro Rodriguez](https://github.com/LautareteX/) - *Code and write README.md*
+* **Jeremias Erba** - *Holberton Student* - [Jeremias Erba](https://github.com/JereDev19/) - *Software development and team leadership*
+* **Lautaro Rodriguez** - *Holberton Student* - [Lautaro Rodriguez](https://github.com/LautareteX/) - *Software Developer and README Writer.md*
