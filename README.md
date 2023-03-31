@@ -18,8 +18,14 @@
 
 This is a custom implementation of the printf function in C, developed as a project for Holberton School. The function supports the following format specifiers: %s, %d, %i, %c and %%, and works the same way as the original printf function.
 
-### Creating A Pull Request
+## Usage
 
+The _printf function works very similar as the original printf function.
+
+*Add the HEADER FILE!
+*Use the syntax but with '_'.
+
+➡️_printf("format string", arguments);
 
 
 ## Authors
