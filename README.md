@@ -38,7 +38,6 @@ The first argument is a string that contains format specifiers, which are replac
     _printf("Character: %c\n", 'H');
     _printf("Percent sign: %%\n");
 
-    return (0);
 
 # Output:
 
