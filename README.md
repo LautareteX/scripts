@@ -18,6 +18,10 @@
 
 This is a custom implementation of the printf function in C, developed as a project for Holberton School. The function supports the following format specifiers: %s, %d, %i, %c and %%, and works the same way as the original printf function.
 
+##  Flowchart
+
+[Search "Flowchart" in Flowchart repository!](https://github.com/JereDev19/holbertonschool-printf/tree/main/flowChart_printf)
+
 ## Usage
 
 The _printf function works very similar as the original printf function.
@@ -47,6 +51,14 @@ The first argument is a string that contains format specifiers, which are replac
     Percent sign: %
 
 ## Format Specifiers
+
+| Format Specifiers | Description |
+| --- | --- |
+| %d | Prints a decimal (base 10) integer. |
+| %i | Same as *%d*. |
+| %s | Print a string. |
+| %c | Print a single character. |
+| %% | Simply print a %. |
 
 * **%d:** Prints a decimal (base 10) integer.
 * **%i:** Same as *%d*.
